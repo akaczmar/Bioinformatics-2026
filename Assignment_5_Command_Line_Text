@@ -1,0 +1,3 @@
+#Assignment 5 Question 3
+
+raxmlHPC-HYBRID-AVX -T 4 -f a -n Bats_ace2_tree_1 -s infile.txt -c 25 -p 12345 -N 100 -m PROTCATDAYHOFF -x 12345

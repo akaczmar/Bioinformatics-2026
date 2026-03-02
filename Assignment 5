@@ -1,0 +1,14 @@
+#Assignment 5 Questions 3-5
+
+3. 
+raxmlHPC-HYBRID-AVX -T 4 -f a -n Bats_ace2_tree_1 -s infile.txt -c 25 -p 12345 -N 100 -m PROTCATDAYHOFF -x 12345
+
+4. 
+Dobsonia viridis
+Epomophorus wahlbergi
+Rousettus leschenaultii
+Cynopterus sphinx
+Syconycteris austrais
+
+5. 
+A phylogeny of ace2 in bats could be useful for understanding the spread of Covid-19 in bats. Ace2 is the functional receptor that Covid-19 uses to enter and infect cells. 

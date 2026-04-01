@@ -1,0 +1,70 @@
+Assignment 6
+Andy Kaczmar
+
+Using Ensembl answer the following questions:
+
+1.) How many splice variants does the human BRCA2 gene have?
+19
+
+2.) How many exons are in the longest splice variant(s) of BRCA2?
+27
+
+3.) How many introns are in the longest splice variant(s) of BRCA2?
+26
+
+4.) What chromosome is this gene on?
+Chromosome 13
+
+5.) What are the gene synonyms of BRCA2?
+BRCC2, FACD, FAD, FAD1, FANCD, FANCD1, XRCC11
+
+6.) How many orthologs of human BRCA2 are found in the African ostrich?
+1
+
+7.) In the human hemoglobin transcript ENST00000330597.5 HBG1-201, what is the sequence of the second exon?
+GCTCCTGGTTGTCTACCCATGGACCCAGAGGTTCTTTGACAGCTTTGGCAACCTGTCCTCTGCCTCTGCCATCATGGGCAACCCCAAAGTCAAGGCACATGGCAAGAAGGTGCTGACTTCCTTGGGAGATGCCACAAAGCACCTGGATGATCTCAAGGGCACCTTTGCCCAGCTGAGTGAACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG 
+
+
+8.) What is the length of the first intron of this hemoglobin transcript?
+122 base pairs
+
+9.) How many pseudogenes are in the narwal genome annotation (NGI_Narwhal_1, INSDC Assembly GCA_005190385.2)?
+723
+
+Using Genomicus answer the following questions:
+10.) What two genes flank BRCA2 in the human genome? 
+ZAR1L and N4BP2L1
+
+11.) What genes flank the sonic hedgehog gene (shh) in the beta (Siamese fighting) fish?
+rnf32 and RBM33 
+
+
+12.) How many copies of shh are in the betta (Siamese fighting) fish?
+1
+
+13.) How many copies of shh are in Atlantic salmon?
+4
+
+Using NCBI answer the following questions:
+14.) How many genome assemblies are available for Bos taurus on NCBI?
+198
+
+15.) How many of the above assemblies are assembled into chromosomes?
+25
+
+16.) How many chromosomes does Bos taurus have excluding sex chromosomes?
+29
+
+17.) Which cow chromosome is the longest?
+Chromosome 1
+
+18.) How many microRNAs are annotated on chromosome the assembly: Bos taurus ARS-UCD2.0?
+1115
+
+19.) If I am interested in learning more about the gene associate with the transcript: NM_001104822, what is a good publicaIon to read on PubMed?
+"Isolation of cDNAs for LCE and HCE, two constituent proteases of the hatching enzyme of Oryzias latipes, and concurrent expression of their mRNAs during development."
+
+20.) What is the translated coding sequence of NM_001104822?
+MDLLAKASVLLLLLLSLSNAQTDNMEEAENGSSKEEIDESELEDVSSIIFRMNNNSMEELLEGDLVLPKTRNAMKCFGAPDSCRWPKSSNGIVKVPYVVSDNYESDEKETIRNAMKEFAEKTCIHFVPRNNERAYLSLEPRFGCKSMMGYVGDKQVVVLQRFGCIKHAVIQHELLHALGFYHEHTRSDRDQHVKINWENIIKDFTHNFDKNDTDNLGTPYDYGSIMHYGRTAFGKDRKETITPIPNPKAAIGQTERMSDIDILRVNKLYKC
+
+Put all these answers in a text file and put it on your GitHub.
